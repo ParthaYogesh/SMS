@@ -13,6 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class LaunchBrowser 
 {
+	//MAIN METHOD
 	public static void main(String[] args) throws Throwable 
 	{
 		
